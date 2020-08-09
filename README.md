@@ -31,5 +31,6 @@ I am interested in design and webdesign also.</p>
 <img src="./.github/gimp.svg" width="100px" height="100px"/>
 </p>
 
+![]([./.github/gimp.svg](https://github.com/Nandosbx/Nandosbx/blob/master/.github/gimp.svg))
 
 <p> UNDER CONSTRUCTION...</p>
