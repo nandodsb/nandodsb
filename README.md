@@ -28,7 +28,7 @@ I am interested in design and webdesign also.</p>
 <h2>Design</h2>
 <p align="center">
 <img src="./.github/inkscape.svg" width="100px" height="100px"/>
-<img src="[./.github/gimp.svg"width="100px](https://github.com/Nandosbx/Nandosbx/blob/master/.github/gimp.svg)" height="100px"/>
+[./.github/gimp.svg"width="100px](https://github.com/Nandosbx/Nandosbx/blob/master/.github/gimp.svg)"
 </p>
 
 <> UNDER CONSTRUCTION...</>
