@@ -1,6 +1,6 @@
 <h1 align="center">Fernando Batista</h1>
 <p align="center">
-<img src="https://github.com/Nandosbx/Nandosbx/blob/master/.github/outerspace.png?raw=true"/>
+<img src="https://github.com/Nandosbx/Nandosbx/blob/master/.github/outerspace.png?raw=true" width="50%" height="50%"/>
 </p>
 
 <p align="center">
