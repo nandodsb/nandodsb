@@ -9,7 +9,7 @@ Designed by Fernando Batista.
 
 
 
-<h1 style="color: blueviolet">Fernando Batista</h1>
+<h1 style="color: blueviolet">INFO</h1>
 
 <p>Hello, I am Fernando Batista, graduated in Computer Engineering living in São Paulo, Brazil.
 
