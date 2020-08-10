@@ -1,6 +1,6 @@
 <h1 align="center">Fernando Batista</h1>
 <p align="center">
-<img src="./.github/outerspace.png"/>
+<img src="https://github.com/Nandosbx/Nandosbx/blob/master/.github/outerspace.png?raw=true"/>
 </p>
 
 <p align="center">
@@ -19,15 +19,15 @@ I am interested in design and webdesign also.</p>
 
 <h2>The stack</h2>
 <p align="center">
-<img src="./.github/react.svg" width="100px" height="100px"/>
-<img src="./.github/node-dot-js.svg"width="100px" height="100px"/>
-<img src="./.github/javascript.svg"width="100px" height="100px"/>
-<img src="./.github/typescript.svg"width="100px" height="100px"/>
+<img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ac443313f81c3d4a8d16fdf74c654183c5b94dcc/.github/react.svg" width="100px" height="100px"/>
+<img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ac443313f81c3d4a8d16fdf74c654183c5b94dcc/.github/node-dot-js.svg"width="100px" height="100px"/>
+<img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ac443313f81c3d4a8d16fdf74c654183c5b94dcc/.github/javascript.svg"width="100px" height="100px"/>
+<img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ac443313f81c3d4a8d16fdf74c654183c5b94dcc/.github/typescript.svg"width="100px" height="100px"/>
 </p>
 
 <h2>Design</h2>
 <p align="center">
-<img src="./.github/inkscape.svg" width="100px" height="100px"/>
+<img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ac443313f81c3d4a8d16fdf74c654183c5b94dcc/.github/inkscape.svg"/>
 <img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ed7fa970564d548193a266f7c2192d67483d59b6/.github/gimp.svg" width="100px" height="100px"/>
 </p>
 
