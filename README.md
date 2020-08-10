@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-Designed by Fernando Batista
+Designed by Fernando Batista.
 </p>
 
 
