@@ -28,7 +28,10 @@ I am interested in design and webdesign also.</p>
 <h2>Design</h2>
 <p align="center">
 <img src="./.github/inkscape.svg" width="100px" height="100px"/>
-<img src="./.github/gimp.svg" width="100px" height="100px"/>
+<img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ed7fa970564d548193a266f7c2192d67483d59b6/.github/gimp.svg" width="100px" height="100px"/>
 </p>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nandosbx&repo=Design)](https://github.com/Nandosbx/Design)
+
 
 <p> UNDER CONSTRUCTION...</p>
