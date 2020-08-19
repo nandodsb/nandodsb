@@ -22,7 +22,7 @@ I am interested in design and webdesign also.</p>
 <img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ac443313f81c3d4a8d16fdf74c654183c5b94dcc/.github/javascript.svg"width="100px" height="100px"/>
 <img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ac443313f81c3d4a8d16fdf74c654183c5b94dcc/.github/typescript.svg"width="100px" height="100px"/>
 <img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ac443313f81c3d4a8d16fdf74c654183c5b94dcc/.github/react.svg" width="100px" height="100px"/>
-<img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ac443313f81c3d4a8d16fdf74c654183c5b94dcc/.github/node-dot-js.svg"width="100px" height="100px"/>s
+<img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ac443313f81c3d4a8d16fdf74c654183c5b94dcc/.github/node-dot-js.svg"width="100px" height="100px"/>
 </p>
 
 <h2>Design</h2>
