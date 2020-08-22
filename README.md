@@ -7,8 +7,6 @@
 Designed by Fernando Batista.
 </p>
 
-
-
 <h1 style="color: blueviolet">INFO</h1>
 
 <p>Hello, I am Fernando Batista, graduated in Computer Engineering living in São Paulo, Brazil.
@@ -32,6 +30,5 @@ I am interested in design and webdesign also.</p>
 </p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nandosbx&repo=Design)](https://github.com/Nandosbx/Design)
-
 
 <p> UNDER CONSTRUCTION...</p>
