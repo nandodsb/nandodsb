@@ -27,7 +27,7 @@ I am interested in design and webdesign also.</p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/70bc2b15ad5c8baea10076ed8c56d1b7db6fc04a/.github/figma.svg"width="100px" height="100px"/>
 <img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ac443313f81c3d4a8d16fdf74c654183c5b94dcc/.github/inkscape.svg"width="100px" height="100px"/>
-<img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ed7fa970564d548193a266f7c2192d67483d59b6/.github/gimp.svg" width="100px" height="100px"/>
+<img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ed7fa970564d548193a266f7c2192d67483d59b6/.github/gimp.svg" width="100px" height="100px"/> <img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ed7fa970564d548193a266f7c2192d67483d59b6/.github/gimp.svg" width="100px" height="100px"/>
 </p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nandosbx&repo=Design)](https://github.com/Nandosbx/Design)
