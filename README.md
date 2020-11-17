@@ -1,9 +1,5 @@
 <h1 align="center">Fernando Batista</h1>
 
-<p align="center">
-Designed by Fernando Batista.
-</p>
-
 <h1 style="color: blueviolet">INFO</h1>
 
 <p>Hello, I am Fernando Batista, graduated in Computer Engineering living in São Paulo, Brazil.
@@ -21,6 +17,10 @@ I am interested in design and webdesign also.
 
 <p align="center">
 <img src="https://github.com/Nandosbx/Nandosbx/blob/master/.github/outerspace.png?raw=true" width="50%" height="50%"/>
+</p>
+
+<p align="center">
+Designed by Fernando Batista.
 </p>
 
 <h2>The stack</h2>
