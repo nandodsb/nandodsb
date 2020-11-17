@@ -12,7 +12,7 @@ I'm Full Stack Developer Jr.
 
 I am interested in design and webdesign also.
 
-<a href="https://github.com/Nandosbx"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Nandosbx/mern-ecommerce-clone"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
