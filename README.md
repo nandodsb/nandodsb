@@ -1,7 +1,4 @@
 <h1 align="center">Fernando Batista</h1>
-<p align="center">
-<img src="https://github.com/Nandosbx/Nandosbx/blob/master/.github/outerspace.png?raw=true" width="50%" height="50%"/>
-</p>
 
 <p align="center">
 Designed by Fernando Batista.
@@ -13,7 +10,14 @@ Designed by Fernando Batista.
 
 I'm Full Stack Developer Jr.
 
-I am interested in design and webdesign also.</p>
+I am interested in design and webdesign also.
+
+<a><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center">
+<img src="https://github.com/Nandosbx/Nandosbx/blob/master/.github/outerspace.png?raw=true" width="50%" height="50%"/>
+</p>
 
 <h2>The stack</h2>
 <p align="center">
