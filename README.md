@@ -38,6 +38,9 @@ Designed by Fernando Batista.
 <img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ed7fa970564d548193a266f7c2192d67483d59b6/.github/gimp.svg" width="100px" height="100px"/> <img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/d9af8fc11681ec2e3965547daf834fde8a7c4136/.github/krita.svg" width="100px" height="100px"/>
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nandosbx&repo=Design)](https://github.com/Nandosbx/Design)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nandosbx&repo=Design&theme=dracula&show_icons=true)](https://github.com/Nandosbx/Design)
+
+![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=Nandosbx&theme=dracula&show_icons=true)
+
 
 <p> UNDER CONSTRUCTION...</p>
