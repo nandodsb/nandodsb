@@ -16,7 +16,7 @@ I am interested in design and webdesign also.
 <img src="https://github.com/Nandosbx/Nandosbx/blob/master/.github/outerspace.png?raw=true" width="50%" height="50%"/>
 </p>
 
-<p align="center">
+<p align="">
 Designed by Fernando Batista.
 </p>
 
