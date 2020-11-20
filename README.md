@@ -9,7 +9,7 @@ I'm Full Stack Developer Jr.
 I am interested in design and webdesign also.
 
 <p align="">
-<a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="#"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/></a><a href="#"><img src="https://img.shields.io/badge/bitbucket-%23330f63.svg?color=143864&style=for-the-badge&logo=bitbucket&logoColor=white"/></a><a href="#"><img src="https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white"/></a><a href="#"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="#"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/></a><a href="#"><img src="https://img.shields.io/badge/bitbucket-%23330f63.svg?color=143864&style=for-the-badge&logo=bitbucket&logoColor=white"/></a><a href="#"><img src="https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white"/></a><a href="#"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="#"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <p align="">
