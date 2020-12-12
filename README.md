@@ -29,18 +29,18 @@ Designed by Fernando Batista.
 </p>
 
 <h2>The stack</h2>
-<p align="">
+<p align="" style="background-color:#282a36;"><br/>
 <img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ac443313f81c3d4a8d16fdf74c654183c5b94dcc/.github/javascript.svg"width="100px" height="100px"/>
 <img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ac443313f81c3d4a8d16fdf74c654183c5b94dcc/.github/typescript.svg"width="100px" height="100px"/>
 <img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ac443313f81c3d4a8d16fdf74c654183c5b94dcc/.github/react.svg" width="100px" height="100px"/>
-<img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ac443313f81c3d4a8d16fdf74c654183c5b94dcc/.github/node-dot-js.svg"width="100px" height="100px"/>
+<img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ac443313f81c3d4a8d16fdf74c654183c5b94dcc/.github/node-dot-js.svg"width="100px" height="100px"/><br/>
 </p>
 
 <h2>Design</h2>
-<p align="">
+<p align=""><br/>
 <img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/70bc2b15ad5c8baea10076ed8c56d1b7db6fc04a/.github/figma.svg"width="100px" height="100px"/>
 <img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ac443313f81c3d4a8d16fdf74c654183c5b94dcc/.github/inkscape.svg"width="100px" height="100px"/>
-<img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ed7fa970564d548193a266f7c2192d67483d59b6/.github/gimp.svg" width="100px" height="100px"/> <img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/d9af8fc11681ec2e3965547daf834fde8a7c4136/.github/krita.svg" width="100px" height="100px"/>
+<img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ed7fa970564d548193a266f7c2192d67483d59b6/.github/gimp.svg" width="100px" height="100px"/> <img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/d9af8fc11681ec2e3965547daf834fde8a7c4136/.github/krita.svg" width="100px" height="100px"/><br/>
 </p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nandosbx&repo=Design&theme=dracula&show_icons=true)](https://github.com/Nandosbx/Design)
