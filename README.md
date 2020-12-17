@@ -13,16 +13,10 @@ I am interested in design and webdesign also.
 <a href="https://www.linkedin.com/in/Nandoxsb/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://gitlab.com/Nandosbx"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/></a><a href="https://bitbucket.org/nandosbx/"><img src="https://img.shields.io/badge/bitbucket-%23330f63.svg?color=143864&style=for-the-badge&logo=bitbucket&logoColor=white"/></a><a href="#"><img src="https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white"/></a><a href="#"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.instagram.com/nando.sbx"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<p>Clica no ticket-link e se inscreve!</p>
-<p align="">
-<a href="https://dowhile.rocketseat.com.br/inscricao/convite/nandosbx"><img src="https://github.com/Nandosbx/Nandosbx/blob/master/.github/dowhile2020.png?raw=true" width="50%" height="50%"/></a>
-</p>
 
-
-
-<p align="">
+< align="">
 <img src="https://github.com/Nandosbx/Nandosbx/blob/master/.github/outerspace.png?raw=true" width="50%" height="50%"/>
-</p>
+</>
 
 <p align="">
 Designed by Fernando Batista.
