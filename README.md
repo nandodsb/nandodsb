@@ -14,14 +14,6 @@ I am interested in design and webdesign also.
 </p>
 
 
-< align="">
-<img src="https://github.com/Nandosbx/Nandosbx/blob/master/.github/outerspace.png?raw=true" width="50%" height="50%"/>
-</>
-
-<p align="">
-Designed by Fernando Batista.
-</p>
-
 <h2>The stack</h2>
 <p align="" style="background-color:#282a36;"><br/>
 <img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/ac443313f81c3d4a8d16fdf74c654183c5b94dcc/.github/javascript.svg"width="100px" height="100px"/>
