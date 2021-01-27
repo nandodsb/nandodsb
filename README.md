@@ -1,7 +1,7 @@
 <h1 align="center">Fernando Batista <img src="https://img.shields.io/github/followers/Nandosbx?style=social"/><span> </span><img src="https://img.shields.io/github/stars/Nandosbx?style=social"/><span></h1>
 
 <p align="">
-Clica no ticket-link para inscrever-te.
+Clica no ticket-link para se inscrever.
 <br/>
 <a href="https://nextlevelweek.com/convite/nandosbx"><img src="https://raw.githubusercontent.com/Nandosbx/Nandosbx/master/.github/ticket-link.jpg" width="75%" height="75%"/></a>
 
