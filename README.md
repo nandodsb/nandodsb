@@ -27,7 +27,7 @@ I am interested in design and webdesign also.
 <p align=""><br/>
 <img src="https://raw.githubusercontent.com/nandodsb/nandodsb/70bc2b15ad5c8baea10076ed8c56d1b7db6fc04a/.github/figma.svg"width="100px" height="100px"/>
 <img src="https://raw.githubusercontent.com/nandodsb/nandodsb/ac443313f81c3d4a8d16fdf74c654183c5b94dcc/.github/inkscape.svg"width="100px" height="100px"/>
-<img src="https://raw.githubusercontent.com/Nandosbx/nandodsb/ed7fa970564d548193a266f7c2192d67483d59b6/.github/gimp.svg" width="100px" height="100px"/> <img src="https://raw.githubusercontent.com/nandodsb/nandodsb/d9af8fc11681ec2e3965547daf834fde8a7c4136/.github/krita.svg" width="100px" height="100px"/><br/>
+<img src="https://raw.githubusercontent.com/nandodsb/nandodsb/ed7fa970564d548193a266f7c2192d67483d59b6/.github/gimp.svg" width="100px" height="100px"/> <img src="https://raw.githubusercontent.com/nandodsb/nandodsb/d9af8fc11681ec2e3965547daf834fde8a7c4136/.github/krita.svg" width="100px" height="100px"/><br/>
 </p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nandodsb&repo=Design&theme=dracula&show_icons=true)](https://github.com/nandodsb/Design)
