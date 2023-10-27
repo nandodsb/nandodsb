@@ -3,9 +3,9 @@
 <h1 style="color: blueviolet">INFO</h1>
 
 <div>
-<p>Hello, I am Fernando Batista, graduated in Computer Engineering living in São Paulo, Brazil.
+<p>Hello, I am Fernando Batista, graduated in Computer Engineering.
 
-I'm Full Stack Developer Jr.
+I'm Full Stack Developer.
 
 I am interested in design and webdesign also.
 </p><img src="https://github.com/Nandosbx/Nandosbx/blob/master/.github/space.gif?raw=true"width="290px" height="138px"/>
